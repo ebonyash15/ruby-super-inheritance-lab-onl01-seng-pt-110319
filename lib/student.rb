@@ -3,6 +3,6 @@ class Student
     p "Hey there! I' so excited to learn stuff."
   end
   def raise_hand
-    [ ]"Pick me!"
+    p "Pick me!"
   end
 end
